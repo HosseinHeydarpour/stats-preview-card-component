@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://github.com/HosseinHeydarpour/stats-preview-card-component)
+- Solution URL: [Solution](https://github.com/HosseinHeydarpour/stats-preview-card-component)
 - Live Site URL: [Live site](https://hosseinheydarpour.github.io/stats-preview-card-component/)
 
 ## My process
