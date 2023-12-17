@@ -41,13 +41,14 @@ Users should be able to:
 
 ## My process
 
-I used SASS and BEM methodology together to create a cleaner and more organized codebase. Flex-box was used for the overall layout.
+I used SASS and BEM methodology together to create a cleaner and more organized codebase. Flex-box and CSS grid was used for the overall layout.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- CSS grid
 - SASS
 - Desktop-first workflow
 - BEM methodology
